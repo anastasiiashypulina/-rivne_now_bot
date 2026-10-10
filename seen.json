@@ -149,11 +149,36 @@
 "domria:33815730",
 "domria:33781033",
 "domria:33780143",
-"domria:33780094"
+"domria:33780094",
+"rieltor:13116964",
+"rieltor:12943205",
+"rieltor:13060737",
+"rieltor:13063964",
+"rieltor:13087293",
+"rieltor:13025862",
+"rieltor:13111856",
+"rieltor:10661867",
+"rieltor:11944608",
+"rieltor:11970813",
+"rieltor:11994132",
+"rieltor:12263499",
+"rieltor:12384555",
+"rieltor:12564787",
+"rieltor:12861896",
+"rieltor:13080346",
+"rieltor:13105414",
+"rieltor:13064264",
+"rieltor:13103132",
+"rieltor:13043100",
+"rieltor:13081541",
+"rieltor:13077924",
+"rieltor:13071222",
+"rieltor:13055344",
+"rieltor:13035438"
 ],
 "failures": {
 "OLX": 0,
 "DIM.RIA": 0,
-"Rieltor.ua": 3
+"Rieltor.ua": 0
 }
 }
