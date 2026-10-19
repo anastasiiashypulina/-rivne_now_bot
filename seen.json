@@ -268,11 +268,12 @@
 "rieltor:13142114",
 "olx:894966661",
 "olx:926442047",
-"olx:938272322"
+"olx:938272322",
+"olx:914206323"
 ],
 "failures": {
 "OLX": 0,
 "DIM.RIA": 0,
-"Rieltor.ua": 0
+"Rieltor.ua": 1
 }
 }
