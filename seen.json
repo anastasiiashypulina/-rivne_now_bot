@@ -451,11 +451,13 @@
 "olx:939180451",
 "olx:929630057",
 "rieltor:13172296",
-"rieltor:13097012"
+"rieltor:13097012",
+"rieltor:13174047",
+"rieltor:13174097"
 ],
 "failures": {
 "OLX": 0,
 "DIM.RIA": 0,
-"Rieltor.ua": 1
+"Rieltor.ua": 0
 }
 }
