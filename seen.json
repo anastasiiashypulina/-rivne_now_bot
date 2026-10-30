@@ -485,11 +485,13 @@
 "olx:939359000",
 "domria:32443370",
 "olx:939366538",
-"olx:896372767"
+"olx:896372767",
+"olx:939369128",
+"rieltor:13179341"
 ],
 "failures": {
 "OLX": 0,
 "DIM.RIA": 0,
-"Rieltor.ua": 2
+"Rieltor.ua": 0
 }
 }
