@@ -730,11 +730,19 @@
 "rieltor:13206375",
 "rieltor:13204864",
 "rieltor:13204228",
-"olx:940417797"
+"olx:940417797",
+"olx:940485398",
+"olx:925585245",
+"olx:940459803",
+"olx:919005179",
+"domria:35132938",
+"domria:35133114",
+"domria:35132724",
+"rieltor:13209606"
 ],
 "failures": {
 "OLX": 0,
 "DIM.RIA": 0,
-"Rieltor.ua": 1
+"Rieltor.ua": 0
 }
 }
