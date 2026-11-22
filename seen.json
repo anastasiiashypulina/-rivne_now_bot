@@ -951,11 +951,12 @@
 "rieltor:13245572",
 "olx:941715895",
 "olx:941712460",
-"domria:35174606"
+"domria:35174606",
+"domria:35174929"
 ],
 "failures": {
 "OLX": 0,
 "DIM.RIA": 0,
-"Rieltor.ua": 1
+"Rieltor.ua": 2
 }
 }
